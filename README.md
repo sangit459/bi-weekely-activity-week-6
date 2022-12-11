@@ -1,6 +1,6 @@
 # bi-weekely-activity-week-6
-# sangit
-# poudel
+# Name: sangit poudel
+# surname: poudel
  
 it is updated 
 
