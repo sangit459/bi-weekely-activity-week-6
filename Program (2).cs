@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SydneyHotel
 {
-    class Program
+    class tutorial programe
     {
         class ReservationDetail
         {
